@@ -15,6 +15,6 @@ This repository contains Java programs that focus on learning and practicing fun
 - `MaxMinElement.java`: Finds the largest and smallest elements in an array.
 
 ## Author:
-👨‍💻 Kumaravel
+👨‍💻 Kumaravel D
 📘  Aspiring MERN Stack Developer  
 🌐 LinkedIn:(https://www.linkedin.com/in/kumaravel4502/) 
